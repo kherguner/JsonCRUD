@@ -1,0 +1,14 @@
+{
+    "birthday": "05-08-1988",
+    "favorite_foods": [
+        "pizza",
+        "bief"
+    ],
+    "passport": {
+        "nationality": "Turkey",
+        "id": "9999"
+    },
+    "name": "Korhan",
+    "married": false,
+    "age": 29
+}
