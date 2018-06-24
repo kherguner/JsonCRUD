@@ -1,7 +1,7 @@
 # CRUD-JSON
 
 
-<b>Java JSON Create, Read, Update and Delete</b>
+<b>Java JSON Create, Read, Update and Delete project</b>
 ***
 Bu projede bir json projesi üzerinde yeni bir json dosyası oluşturma, json uzantılı dosyayı nasıl okuyabiliriz, json objelerini nasıl güncelleyebiliriz ve nasıl json üzerinde silme işlemi yapıp yeniden dosyaya yazabiliriz.
 
